@@ -1,0 +1,40 @@
+/* 
+
+.cont{
+  display: flex;
+  justify-content:space-around;
+}
+
+.btn{
+  width: 70px;
+  height: 40px;
+  border: 3px solid green;
+  background-color: wheat;
+  border-radius: 10px;
+}
+
+
+.active{
+  font-weight: bold;
+  background-color: mistyrose;
+  border: 6px solid rgb(96, 104, 85);
+}
+
+.visible{
+  visibility: hidden;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+
+body{
+  background-color: #353839;
+  color: white
+}
+
+.cont{
+  margin: 10px 20px;
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
+}
+
